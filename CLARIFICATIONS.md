@@ -2,6 +2,8 @@
 
 Link to the google colab notebook: https://drive.google.com/file/d/18PUL6mgnn0uxRRFATsm8nYYxaefy7K_D/view?usp=sharing 
 
+The term MoNuSeg mentioned in the assignment pdf stands for Multi Organ Nuclei Segmentation
+
 **Resume points:**
 
 Multi Organ Nuclei Segmentation using U-Net | Image Processing
