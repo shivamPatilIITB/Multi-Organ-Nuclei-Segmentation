@@ -6,14 +6,15 @@ The term MoNuSeg mentioned in the assignment pdf stands for Multi Organ Nuclei S
 
 **Resume points:**
 
-Multi Organ Nuclei Segmentation using U-Net | Image Processing
+**Multi Organ Nuclei Segmentation using U-Net** | Image Processing
 
 Instructor: Prof. Amit Sethi, Electrical Engineering, IIT Bombay | Python (Oct’22 - Nov’22)
 
-(a) Implemented a U-Net for binary semantic segmentation in tensorflow with keras for nucleus and non-nucleus segmentation for tissue images
+(a) Obtained a dice score of 87.61% by implementing a U-Net for binary semantic segmentation in
+tensorflow with keras for nucleus and non-nucleus segmentation for tissue images
 
-(b) Trained and validated the U-Net using dice loss and modified the baseline architecture by using a 
-combination of dice loss and MS-SSIM as loss function with a trade-off parameter
+(b) Trained and validated the U-Net using dice score as loss function and modified the baseline architecture by
+using a combination of dice score and MS-SSIM as loss function with a trade-off parameter
 
 **Explanation for above points:**
 
